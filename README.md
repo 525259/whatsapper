@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900" alt="Xeon" width="170" />
+<img src="https://pbs.twimg.com/profile_images/1407188914884988928/wY8-hZdF.jpg" alt="Xeon" width="170" />
 
 ## whatsapper-bot
 
