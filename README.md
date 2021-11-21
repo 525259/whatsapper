@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900" alt="Xeon" width="170" />
 
-## watsapper-bot
+## whatsapper-bot
 
 </div>
 
