@@ -360,7 +360,7 @@ const checkRegisteredUser = (sender) => {
    const isRegister = register.includes(sender)
     const groupMembers = isGroup ? groupMetadata.participants : "";
     const groupDesc = isGroup ? groupMetadata.desc : "";
-    const isOwner = ownerNumber.includes(sender)
+    const isвладелец = ownerNumber.includes(sender)
     const groupOwner = isGroup ? groupMetadata.owner : "";
     const hour_now = moment().format('HH:mm:ss')
     const groupAdmins = isGroup ? getGroupAdmins(groupMembers) : "";
