@@ -16,11 +16,11 @@
 </p>
 
 
-## 1st Repository was deleted
-Had 5+ stars and 90+ forks, please dont forget to give star before forking.🙏🙇
+
+## 1-й репозиторий был удален<Было 5+ звезд и 90+ вилок, пожалуйста, не забудьте дать звезду перед раздвоением.🙏🙇◁
+</p>
 
 
-🏼‍♂️
 🦄 apt update
 🦄 apt upgrade
 🦄 pkg update && pkg upgrade 
