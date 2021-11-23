@@ -61,8 +61,25 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/DGXeon/DogeBot
-🦄 cd DogeBot
+🦄 git clone https://github.com/525259/whatsapper.git
+🦄 apt upgrade
+🦄 pkg update && pkg upgrade 
+🦄 pkg install bash
+🦄 pkg install libwebp
+🦄 pkg install git -y
+🦄 pkg install nodejs -y 
+🦄 pkg install ffmpeg -y 
+🦄 pkg install wget
+🦄 pkg install imagemagick -y
+🦄 git clone https://github.com/525259/whatsapper.git
+🦄 cd whatsapper
+🦄 ls
+🦄 rm -rf session.json
+🦄 npm install
+🦄 npm start
+🦄 scan qr code within 15seconds
+
+🦄 cd whatsapper
 🦄 ls
 🦄 rm -rf session.json
 🦄 npm install
